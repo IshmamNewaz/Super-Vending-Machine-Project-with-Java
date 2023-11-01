@@ -1,0 +1,14 @@
+Items Bought from SUPER VENDING MACHINE by Farhan
+
+Name of Item: Beverage
+ 			Price: 50.0 taka
+Name of Item: Tissue
+ 			Price: 10.0 taka
+Name of Item: Lux Soap
+ 			Price: 100.0 taka
+Name of Item: Lux Soap
+ 			Price: 100.0 taka
+Totall Price was: 260.0 taka
+With Discout Paid: 234.0 taka
+
+Thank You For using The SUPER VENDING MACHINE Please Come Again
