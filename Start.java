@@ -305,8 +305,6 @@ public class Start{
 					System.out.println("Invalid Input");
 			}
 		}
-	
-        
 	}
 }
 
