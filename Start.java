@@ -8,7 +8,6 @@ import classes.*;
 public class Start{
 	
 	public static void main(String[] args){
-    	
     	Boolean key=true;
     	int retLogKey;
     	Scanner input = new Scanner(System.in);
